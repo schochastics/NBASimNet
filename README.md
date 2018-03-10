@@ -7,5 +7,8 @@ The app is based on a series of blog posts on *Analyzing NBA player data*:
 - [Clustering NBA players](http://blog.schochastics.net/post/analyzing-nba-player-data-ii-clustering/)
 - [NBA similarity networks](http://blog.schochastics.net/post/analyzing-nba-player-data-iii-similarity-networks/)
 
-Run the app with `shiny::runGitHub("schochastics/NBASimNet")`
-make sure you have the package `visNetwork` installed.
+Run the app with `shiny::runGitHub("schochastics/NBASimNet")`  
+Make sure you have the package `visNetwork` installed.
+
+
+All data comes from [basketball-reference.com](basketball-reference.com)
