@@ -10,5 +10,6 @@ The app is based on a series of blog posts on *Analyzing NBA player data*:
 Run the app with `shiny::runGitHub("schochastics/NBASimNet")`  
 Make sure you have the package `visNetwork` installed.
 
+![](screenshot.png)
 
 All data comes from [basketball-reference.com](basketball-reference.com)
